@@ -5,13 +5,13 @@
 Neste curso incrível que a Alura disponibilizou para quem vai participar da Imersão Dev no dia 18/11, alguns dos principais tópicos abordados, após o projeto estar finalizado, incluem:
 
 
-Boas Práticas e Padrões de Código: Como escrever código limpo e reutilizável, usando padrões.
+🔵 Boas Práticas e Padrões de Código: Como escrever código limpo e reutilizável, usando padrões.
 
 🔵 Variáveis e Condicionais: Como por exemplo let para as variáveis e a estrutura mais comum, que permite avaliar uma condição e executar diferentes linhas de código if / else;
 
 🔵 Loops: Um loop em JavaScript é basicamente uma forma de repetir um pedaço de código várias vezes, enquanto uma condição que você define for verdadeira. É tipo um "repete até..." no seu código.
 
-🔵 Todas essas práticas acima foram executadas em cima de um jogo chamado “Descubra o número Secreto”, onde o usuário tinha que descobrir o número pré estabelecido com base nas dicas dadas
+ Todas essas práticas acima foram executadas em cima de um jogo chamado “Descubra o número Secreto”, onde o usuário tinha que descobrir o número pré estabelecido com base nas dicas dadas
 
 
 ### 📋 O que foi necessário para realizar este curso?
