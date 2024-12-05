@@ -22,7 +22,7 @@ Existem diversas ferramentas que nos ajudam no processo de criação e edição 
  https://code.visualstudio.com/docs/languages/java 
 ```
 
-### 🔧 Instalação
+### 🔧 Preparação do Ambiente
 
 Após a instalação do Visual Studio Code, conforme a documentação no link acima, você precisa localizar o projeto que baixou. Normalmente, os arquivos baixados ficam na pasta Downloads.
 
